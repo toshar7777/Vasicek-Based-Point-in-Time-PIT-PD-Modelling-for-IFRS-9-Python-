@@ -4,8 +4,6 @@
 
 This project demonstrates the development of a **Point-in-Time (PIT) Probability of Default (PD) framework** using the **Vasicek single-factor credit risk model**, aligned with **IFRS 9 Expected Credit Loss (ECL)** requirements. The notebook focuses on converting **Through-the-Cycle (TTC) PDs into forward-looking PIT PDs** by incorporating a **systematic risk factor**, a standard industry approach used in credit risk modelling.
 
-The project reflects practical methodologies adopted by **banks, NBFCs, Big 4 risk advisory teams, and fintech credit risk functions**.
-
 ## Objectives
 * Develop an **IFRS 9–aligned PIT PD framework** using the Vasicek model
 * Transform **TTC PDs into macro-sensitive PIT PDs**
